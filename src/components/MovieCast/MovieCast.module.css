@@ -1,0 +1,13 @@
+.titleH2 {
+  margin: 10px 0;
+}
+
+.listCast {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.listCastItem {
+  width: calc((100% - 3 * 15px) / 4);
+}
